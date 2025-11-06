@@ -85,6 +85,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mba-x86&color=00D9FF&style=flat-square)
 
-*Last Updated: 2025*
-
 </div>

@@ -26,7 +26,7 @@ When making changes to this repository:
 
 ## Style Guidelines
 
-- Use emojis sparingly and purposefully (currently using 🎲 and ⚙️)
+- Use emojis sparingly and purposefully (currently using 🎲, ⚙️, and 🌐)
 - Maintain consistent spacing and formatting
 - Keep sections clearly defined
 - Use bullet points for lists

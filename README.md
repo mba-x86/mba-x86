@@ -24,7 +24,7 @@
 
 [![Website](https://img.shields.io/badge/Website-mba--x86.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mba-x86.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mba--x86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mba-x86)
-[![Email](https://img.shields.io/badge/Email-contact%40mba--x86.dev-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](contact@mba-x86.dev)
+[![Email](https://img.shields.io/badge/Email-contact%40mba--x86.dev-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mba-x86.dev)
 </div>
 
 ---

@@ -76,8 +76,7 @@
 
 ### 📫 Get In Touch
 
-💼 Open to collaborations and interesting projects  
-🌟 Let's build something amazing together!
+[Contact me 🫡](contact@mba-x86.dev)
 
 ---
 

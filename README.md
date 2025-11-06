@@ -14,7 +14,7 @@
 
 ⚙️ **Always learning, always building**
 
-💡 **Exploring new technologies**
+💡 **Continuously explore new technologies**
 
 ---
 

@@ -72,14 +72,6 @@
 
 ---
 
-<div align="center">
-
-### 📫 Get In Touch
-
-[Contact me 🫡](contact@mba-x86.dev)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mba-x86&color=00D9FF&style=flat-square)
 
 </div>

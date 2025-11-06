@@ -10,11 +10,11 @@
 
 ## 🎯 About Me
 
-🎲 **Passionate about innovation & problem-solving** — I thrive on tackling complex challenges and creating elegant solutions
+🎲 **Passionate about innovation & problem-solving**
 
-⚙️ **Always learning, always building** — Continuous growth and hands-on development are at the core of what I do
+⚙️ **Always learning, always building**
 
-💡 **Exploring new technologies** — Constantly experimenting with cutting-edge tools and frameworks
+💡 **Exploring new technologies**
 
 ---
 

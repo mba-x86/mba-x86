@@ -45,18 +45,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 [SysBot](https://github.com/mba-x86/SysBot) | Advanced Discord bot for server management and moderation with automation features | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| 🗂️ [Student-DB](https://github.com/mba-x86/Student-DB) | MongoDB-based student database management system with CRUD operations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🧹 [Command-Janitor](https://github.com/mba-x86/Command-Janitor) | Discord bot command management tool for deleting and purging slash commands | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| 📱 [Remote-Phone-Caller](https://github.com/mba-x86/Remote-Phone-Caller) | Flask-based automation system for remote phone calling via ADB | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| 🎨 [Telegram-Media-Watermark-Bot](https://github.com/mba-x86/Telegram-Media-Watermark-Bot) | Telegram bot that adds watermarks to images and videos with flexible positioning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
-| 📚 [Data-Structures](https://github.com/mba-x86/Data-Structures) | Comprehensive collection of data structure implementations and algorithms | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Algorithms](https://img.shields.io/badge/-Algorithms-00ADD8?style=flat-square&logo=algolia&logoColor=white) |
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mba-x86&color=00D9FF&style=flat-square)
 

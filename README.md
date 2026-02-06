@@ -29,20 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mba-x86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mba-x86&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mba-x86&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💻 Tech Stack & Tools
 
 <div align="center">

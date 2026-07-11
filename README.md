@@ -6,15 +6,6 @@
 
 </div>
 
---- 
-
-## 🎯 About Me
-
-🎲 **Passionate about innovation & problem-solving**
-
-⚙️ **Always learning, always building**
-
-💡 **Continuously explore new technologies**
 
 ---
 

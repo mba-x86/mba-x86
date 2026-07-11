@@ -1,11 +1,10 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm mba-x86
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Passionate+About+Innovation;Problem+Solver+%26+Builder;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
-
 
 ---
 
@@ -16,6 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-mba--x86.dev-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mba-x86.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mba--x86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mba-x86)
 [![Email](https://img.shields.io/badge/Email-contact%40mba--x86.dev-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mba-x86.dev)
+
 </div>
 
 ---
@@ -36,6 +36,7 @@
 
 ---
 
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mba-x86&color=00D9FF&style=flat-square)
 
